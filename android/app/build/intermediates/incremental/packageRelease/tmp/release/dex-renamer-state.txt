@@ -1,0 +1,4 @@
+#Sun Feb 21 23:28:16 IST 2021
+base.0=/Users/sudeepcv/Documents/work/voicedemo/voiceDemo/android/app/build/intermediates/dex/release/mergeDexRelease/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

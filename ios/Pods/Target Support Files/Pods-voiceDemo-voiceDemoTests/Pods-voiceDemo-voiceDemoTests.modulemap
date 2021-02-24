@@ -1,0 +1,6 @@
+module Pods_voiceDemo_voiceDemoTests {
+  umbrella header "Pods-voiceDemo-voiceDemoTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
